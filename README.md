@@ -1,18 +1,20 @@
-# Reserva de lanches
+# RESERVA DE LANCHES
 
 Consutruir uma plataforma funcional que permita aos estudantes da PUC Minas polo São Gabriel realizarem a reserva de lanches com finalidade de reduzir fila e tempo de espera.
 
 ## Alunos integrantes da equipe
 
-Samuel Araujo De oliveira
-* Nome completo do aluno 2
+* Samuel Araujo De oliveira
+* Emili Barbosa Silva
 * Nome completo do aluno 3
 * Nome completo do aluno 4
+* Nome completo do aluno 5
+* Nome completo do aluno 6
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Pedro Felipe Alves de Oliveira
+* Caroline Rhaian da Silva Jandre
 
 ## Instruções de utilização
 
