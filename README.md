@@ -6,7 +6,7 @@ Consutruir uma plataforma funcional que permita aos estudantes da PUC Minas polo
 
 * Samuel Araujo De oliveira
 * Emili Barbosa Silva
-* Nome completo do aluno 3
+* Gabriel Vitor Samuel Costa de Matos
 * Nome completo do aluno 4
 * Nome completo do aluno 5
 * Nome completo do aluno 6
