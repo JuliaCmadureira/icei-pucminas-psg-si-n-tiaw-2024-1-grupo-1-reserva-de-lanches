@@ -1,10 +1,10 @@
-# Nome do projeto
+# Reserva de lanches
 
-Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
+Consutruir uma plataforma funcional que permita aos estudantes da PUC Minas polo São Gabriel realizarem a reserva de lanches com finalidade de reduzir fila e tempo de espera.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
+Samuel Araujo De oliveira
 * Nome completo do aluno 2
 * Nome completo do aluno 3
 * Nome completo do aluno 4
